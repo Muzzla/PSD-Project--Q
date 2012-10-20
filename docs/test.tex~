@@ -1,0 +1,10 @@
+\documentclass{article}
+\title{Test Document for Use Cases}
+\author{Ross Barnie}
+\date{}
+
+\begin{document}
+\maketitle
+
+
+\include{usecases}

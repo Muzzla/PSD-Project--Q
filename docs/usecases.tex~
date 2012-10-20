@@ -1,0 +1,5 @@
+\section{Use Cases}
+
+\begin{figure}[t]
+  \include{img/actors}
+\end{figure}

@@ -1,0 +1,29 @@
+\begin{picture}(0,0)%
+\includegraphics{actors.pdf}%
+\end{picture}%
+\setlength{\unitlength}{3947sp}%
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+\begin{picture}(9226,8180)(2536,-9301)
+\put(6301,-2986){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}User}%
+}}}}
+\put(3076,-6286){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Student}%
+}}}}
+\put(8251,-9286){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Academic}%
+}}}}
+\put(9901,-9211){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Organisation}%
+}}}}
+\put(2551,-9136){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}SE/ESE Student}%
+}}}}
+\put(5251,-9211){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Course Coordinator}%
+}}}}
+\put(6151,-6286){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Staff}%
+}}}}
+\put(9001,-6286){\makebox(0,0)[lb]{\smash{{\SetFigFont{14}{16.8}{\ttdefault}{\mddefault}{\updefault}{\color[rgb]{0,0,0}Advertiser}%
+}}}}
+\end{picture}%
