@@ -16,7 +16,7 @@ A short summary of the actors is given below:
 \item[User]{A user of the system}
 \item[Advertiser] {A user who can advertise internships}
 \item[Organisation] {An advertiser belonging to an organisation outwith the University}
-\item[Academic] {An advertiser who is an academic at the University}
+\item[Department] {A department at the University}
 \item[Student] {A user who is a Computing Science student at the University}
 \item[SE/ESE Student] {A student studying Software Engineering or Electronics and Software Engineering}
 \item[Staff] {A user who is a member of staff at the University}
@@ -34,13 +34,19 @@ The core use cases for the system are:
     \begin{itemize}
       \item{Search for Advert}
       \item{Search for User}
-      \item{\ldots}
     \end{itemize}
-  \item{Submitting Advertisements (Section X)}
+  \item{Posting Advertisements (Section X)}
     \begin{itemize}
-    \item{Submit advertisement for review}
-    \item{Review advertisement}
-    \item{Comment advertisement}
-    \item{Publish advertisement}
+    \item{Submit advertisement (by Advertiser) for review (by Course Coordinator)}
+    \item{Review advertisement (by Course Coordinator)}
+    \item{Comment advertisement (by Course Coordinator)}
+    \item{Publish advertisement (by Course Coordinator)}
+    \item{Reject advertisement (by Course Coordinator)}
+    \item{Withdraw advertisement (by Advertiser)}
+    \end{itemize}
+  \item{Notify Student of Successful Application (Section X)}
+    \begin{itemize}
+      \item{Notify system of successful application (by Advertiser)}
+      \item{Notify Student}
     \end{itemize}
 \end{itemize}
